@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_Machine_Test</string>
+    <string name="collagename">"College Name "</string>
+    <string name="date">"Create Date :- "</string>
+    <string name="yr">"Year :- "</string>
+    <string name="degree">"Degree :- "</string>
+    <string name="training">Training</string>
+</resources>
